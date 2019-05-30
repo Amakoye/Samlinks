@@ -422,7 +422,8 @@
         				<a href="#"><i class="fab fa-twitter"></i></a>
         				<a href="#"><i class="fab fa-linkedin"></i></a>
         				<!--<a href="#"><i class="fab fa-github"></i></a>-->
-
+                <small><p class="text-white mt-2">Developed by:<br>Charles Amakoye</p></small>
+  
         				</div>
 
         		</div>
